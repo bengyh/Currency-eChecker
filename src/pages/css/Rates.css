@@ -1,0 +1,24 @@
+
+.conversion {
+    margin: 0;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3rem;
+  }
+  
+  .num {
+    border: 1px solid blue;
+    border-radius: .3em;
+    padding: .25rem;
+    width: 7em;
+  }
+  
+  select {
+    margin-left: 0.3rem;
+  }
+  
+  .equal {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }

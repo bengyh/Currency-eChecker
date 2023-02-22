@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    width: 100%;
+    
+    font-size: 0.8rem;
+  }
+
+.MC{
+    margin-top: 2.5rem;
+    color:bisque;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    background-position: center center;
+    
+  }
+.map{
+    padding: 2px;
+    color: white;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-position: center center;
+}
+
+.one, .two, .three, .four{
+    margin-top: 3rem;
+}
+
