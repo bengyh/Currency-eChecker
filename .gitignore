@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 #API KEY
-.src.pages
+.src.pages.config.js
 
